@@ -1,0 +1,57 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Library/Unity/2020.2.5f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker92
+-projectPath
+/Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+-logFile
+Logs/AssetImportWorker92.log
+-srvPort
+49662
+Successfully changed project path to: /Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+/Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1768.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.5f1 (e2c53f129de5)
+[Subsystems] Discovering subsystems at path /Library/Unity/2020.2.5f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-03 23:33:26.983 Unity[8528:68415] (null) preferred device: Apple M1 (high power)
+2021-03-03 23:33:26.983 Unity[8528:68415] Metal devices available: 1
+2021-03-03 23:33:26.983 Unity[8528:68415] 0: Apple M1 (high power)
+2021-03-03 23:33:26.983 Unity[8528:68415] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Library/Unity/2020.2.5f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Library/Unity/2020.2.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Library/Unity/2020.2.5f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Library/Unity/2020.2.5f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Library/Unity/2020.2.5f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Library/Unity/2020.2.5f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Library/Unity/2020.2.5f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /Library/Unity/2020.2.5f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.002639 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.777 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 1.721028 seconds.

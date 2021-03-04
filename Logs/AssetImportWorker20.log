@@ -1,0 +1,18 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Library/Unity/2020.2.5f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker20
+-projectPath
+/Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+-logFile
+Logs/AssetImportWorker20.log
+-srvPort
+49662
+Successfully changed project path to: /Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+/Volumes/GHOSTSZSTOR/projects/unity/Unity Control Demo
+Using Asset Import Pipeline V2.
